@@ -10,3 +10,5 @@ double-spine_test.py - program to check whether a spine is double-headed by comp
 shaft_test.py - program to check whether a mesh is a shaft based on number and size of openings
 
 syapse-not-on-mesh.py - program to check whether the synapse is floating not on the mesh
+
+reindexing.py and reindexing.ipynb - creating a new dataframe from the dataframe created by Dual_Innervation-AllCells.py that also has the original index and synapse location of each spine
